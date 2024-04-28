@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(rgb(125, 19, 196), rgb(69, 7, 131), rgb(42, 2, 61));
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 20px;
+}
